@@ -50,6 +50,7 @@ We created hummingbot to promote **decentralized market-making**: enabling membe
 | <img src="assets/mexc.jpg" alt="MEXC" width="90" /> | mexc | [MEXC Global](https://www.mexc.com/) | 1 | [API](https://mxcdevelop.github.io/APIDoc/) | :warning: |
 | <img src="assets/ndax-logo.jpg" alt="NDAX" width="90" /> | ndax | [NDAX](https://ndax.io/) | 1 | [API](https://ndaxlo.github.io/API/) | :warning: |
 | <img src="assets/okex-logo.jpg" alt="OKEx" width="90" /> | okex | [OKEx](https://www.okex.com/) | 3 | [API](https://www.okex.com/docs/en/) | :white_check_mark: | [1931920](https://www.okex.com/join/1931920)
+| <img src="assets/powertrade-logo.png" alt="Powertrade" width="90" /> | powertrade | [Powertrade](https://power.trade/) | 1 | [API](https://docs.api.power.trade/) |![YELLOW](https://via.placeholder.com/15/ffff00/?text=+) |
 | <img src="assets/probit-logo.jpg" alt="Probit Global" width="90" /> | probit | [Probit Global](https://www.probit.com/en-us/) | 1 | [API](https://docs-en.probit.com/docs) | :warning: |
 | <img src="assets/probit_kr-logo.jpg" alt="Probit Korea" width="90" /> | probit_kr | [Probit Korea](https://www.probit.kr/en-us/) | 1 | [API](https://docs-en.probit.com/docs) | :warning: |
 | <img src="assets/wazirX-logo.jpg" alt="Wazirx" width="90" /> | wazirx | [WazirX](https://wazirx.com/) | 1 | [API](https://docs.wazirx.com/#public-rest-api-for-wazirx) | :warning: |
